@@ -1,0 +1,14 @@
+#ignore virtualenvs
+
+venv 
+
+Dockerfile
+docker-compose.yml
+
+.git
+
+.gitignore
+
+.idea
+
+.vscode
